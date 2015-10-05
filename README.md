@@ -28,9 +28,9 @@ using (var reader = new PageReader(path))
 
 ## Dev
 ### Developer Environment
-Windows 10
-Visual Studio 2015
-.NET 4.6
+* Windows 10
+* Visual Studio 2015
+* .NET 4.6
 
 ### Language
 C# 6.0
