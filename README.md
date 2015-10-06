@@ -8,9 +8,7 @@ Tools for Wikimedia dump
 
 ## Getting Started
 1. Get page / article XML dump from Wikimedia
-2. In NuGet package manager console,
-
-``` Install-Package WikimediaDumpToolbox ```
+2. In NuGet package manager console, ``` Install-Package WikimediaDumpToolbox ```
 
 3. Initialize PageReader and Read Read Read!
 
